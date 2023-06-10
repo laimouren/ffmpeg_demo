@@ -1,0 +1,1 @@
+config:x86:x86_64:generic:linux:gcc 10.3.1 (GCC):--prefix=/root/ffmpeg_build --bindir=/root/bin --enable-nonfree --enable-pic --enable-shared --enable-avresample --disable-x86asm
